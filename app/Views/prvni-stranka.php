@@ -11,7 +11,7 @@
       <div class="ratio ratio-1x1 position-relative overflow-hidden rounded">
 
          <div class="position-absolute top-0 start-0 w-100 h-100"
-            style="background-size: cover; background-position:center; background-image: url('images/stare-vlajky.jpg');">
+            style="background-size: cover; background-position:center; background-image: url('<?= base_url('images/stare-vlajky.jpg') ?>');">
          </div>
 
          <div
@@ -33,7 +33,7 @@
             <div class="ratio ratio-1x1 position-relative overflow-hidden rounded">
 
                <div class="position-absolute top-0 start-0 w-100 h-100"
-                  style="background-size: cover; background-position:center; background-image: url('images/vlajky-zbrane.jpg');">
+                  style="background-size: cover; background-position:center; background-image: url('<?= base_url('images/vlajky-zbrane.jpg') ?>');">
                </div>
 
                <div
@@ -51,7 +51,7 @@
             <div class="ratio ratio-1x1 position-relative overflow-hidden rounded">
 
                <div class="position-absolute top-0 start-0 w-100 h-100"
-                  style="background-size: cover; background-position:center; background-image: url('images/cervena-modra-bila.jpg');">
+                  style="background-size: cover; background-position:center; background-image: url('<?= base_url('images/cervena-modra-bila.jpg') ?>');">
                </div>
 
                <div
@@ -69,7 +69,7 @@
             <div class="ratio ratio-1x1 position-relative overflow-hidden rounded">
 
                <div class="position-absolute top-0 start-0 w-100 h-100"
-                  style="background-size: cover; background-position:center; background-image: url('images/malawi.png');">
+                  style="background-size: cover; background-position:center; background-image: url('<?= base_url('images/malawi.png') ?>');">
                </div>
 
                <div
@@ -87,7 +87,7 @@
             <div class="ratio ratio-1x1 position-relative overflow-hidden rounded">
 
                <div class="position-absolute top-0 start-0 w-100 h-100"
-                  style="background-size: cover; background-position:center; background-image: url('images/nepal.jpg');">
+                  style="background-size: cover; background-position:center; background-image: url('<?= base_url('images/nepal.jpg') ?>');">
                </div>
 
                <div
