@@ -17,20 +17,24 @@ class Main extends BaseController
 
     public function index()
     {
-        echo view('prvni-stranka'); // vyvolává view main_page
+        $data["title"] = "Články";
+        echo view('prvni-stranka', $data); // vyvolává view main_page
     }
 
     public function druhaStranka()
     {
-        echo view('druha-stranka');
+        $data["title"] = "Barvy";
+        echo view('druha-stranka', $data);
     }
 
     public function tretiStranka()
     {
-        echo view('treti-stranka');
+        $data["title"] = "Neobdélníkové vlajky";
+        echo view('treti-stranka', $data);
     }
 
     public function ctvrtaStranka(){
-        echo view('ctvrta-stranka');
+        $data["title"] = "Symbolismus";
+        echo view('ctvrta-stranka', $data);
     }
 }
