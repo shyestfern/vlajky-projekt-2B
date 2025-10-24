@@ -22,7 +22,7 @@
             <div class="row">
 
                 <div class="col-md-6">
-                    <img src="<?= base_url('img/cervena.jpg') ?>" class="d-block w-100" alt="První slide">
+                    <img src="<?= base_url('images/cervena.jpg') ?>" class="d-block w-100" alt="První slide">
                 </div>
 
                 <div class="col-md-6 d-flex align-items-center p-4 bg-primary text-white">
@@ -41,7 +41,7 @@
             <div class="row">
 
                 <div class="col-md-6">
-                    <img src="<?= base_url('img/modra.jpg') ?>" class="d-block w-100" alt="Druhý slide">
+                    <img src="<?= base_url('images/modra.jpg') ?>" class="d-block w-100" alt="Druhý slide">
                 </div>
 
                 <div class="col-md-6 d-flex align-items-center p-4 bg-primary text-white">
@@ -60,7 +60,7 @@
             <div class="row">
 
                 <div class="col-md-6">
-                    <img src="<?= base_url('img/bila.jpg') ?>" class="d-block w-100" alt="Třetí slide">
+                    <img src="<?= base_url('images/bila.jpg') ?>" class="d-block w-100" alt="Třetí slide">
                 </div>
 
                 <div class="col-md-6 d-flex align-items-center p-4 bg-primary text-white">

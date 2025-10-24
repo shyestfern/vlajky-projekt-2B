@@ -10,7 +10,7 @@
         <div class="card text-bg-primary">
             <div class="row g-0 d-flex align-items-stretch">
                 <div class="col-6 position-relative">
-                    <img src="<?= base_url('img/slunce.jpg') ?>" class="img-fluid rounded-start h-100 w-100 object-fit-cover" alt="První karta">
+                    <img src="<?= base_url('images/slunce.jpg') ?>" class="img-fluid rounded-start h-100 w-100 object-fit-cover" alt="První karta">
                     <span class="flag-icon fi fi-jp position-absolute top-0 start-0 m-2" style="font-size: 2rem;"></span>
                 </div>
                 <div class="col-6">
@@ -27,7 +27,7 @@
         <div class="card text-bg-primary">
             <div class="row g-0 d-flex align-items-stretch">
                 <div class="col-6 position-relative">
-                    <img src="<?= base_url('img/hvezdy.jpg') ?>" class="img-fluid rounded-start h-100 w-100 object-fit-cover" alt="První karta">
+                    <img src="<?= base_url('images/hvezdy.jpg') ?>" class="img-fluid rounded-start h-100 w-100 object-fit-cover" alt="První karta">
                     <span class="flag-icon fi fi-br position-absolute top-0 start-0 m-2" style="font-size: 2rem;"></span>
                 </div>
                 <div class="col-6">
@@ -44,7 +44,7 @@
         <div class="card text-bg-primary">
             <div class="row g-0 d-flex align-items-stretch">
                 <div class="col-6 position-relative">
-                    <img src="<?= base_url('img/jednota.jpg') ?>" class="img-fluid rounded-start h-100 w-100 object-fit-cover" alt="První karta">
+                    <img src="<?= base_url('images/jednota.jpg') ?>" class="img-fluid rounded-start h-100 w-100 object-fit-cover" alt="První karta">
                     <span class="flag-icon fi fi-za position-absolute top-0 start-0 m-2" style="font-size: 2rem;"></span>
                 </div>
                 <div class="col-6">
@@ -61,7 +61,7 @@
         <div class="card text-bg-primary">
             <div class="row g-0 d-flex align-items-stretch">
                 <div class="col-6 position-relative">
-                    <img src="<?= base_url('img/himalaje.jpg') ?>" class="img-fluid rounded-start h-100 w-100 object-fit-cover" alt="První karta">
+                    <img src="<?= base_url('images/himalaje.jpg') ?>" class="img-fluid rounded-start h-100 w-100 object-fit-cover" alt="První karta">
                     <span class="flag-icon fi fi-np position-absolute top-0 start-0 m-2" style="font-size: 2rem;"></span>
                 </div>
                 <div class="col-6">
@@ -78,7 +78,7 @@
         <div class="card text-bg-primary">
             <div class="row g-0 d-flex align-items-stretch">
                 <div class="col-6 position-relative">
-                    <img src="<?= base_url('img/klice.jpg') ?>" class="img-fluid rounded-start h-100 w-100 object-fit-cover" alt="První karta">
+                    <img src="<?= base_url('images/klice.jpg') ?>" class="img-fluid rounded-start h-100 w-100 object-fit-cover" alt="První karta">
                     <span class="flag-icon fi fi-va position-absolute top-0 start-0 m-2" style="font-size: 2rem;"></span>
                 </div>
                 <div class="col-6">
@@ -95,7 +95,7 @@
         <div class="card text-bg-primary">
             <div class="row g-0 d-flex align-items-stretch">
                 <div class="col-6 position-relative">
-                    <img src="<?= base_url('img/javorovy-list.jpg') ?>" class="img-fluid rounded-start h-100 w-100 object-fit-cover" alt="První karta">
+                    <img src="<?= base_url('images/javorovy-list.jpg') ?>" class="img-fluid rounded-start h-100 w-100 object-fit-cover" alt="První karta">
                     <span class="flag-icon fi fi-ca position-absolute top-0 start-0 m-2" style="font-size: 2rem;"></span>
                 </div>
                 <div class="col-6">
