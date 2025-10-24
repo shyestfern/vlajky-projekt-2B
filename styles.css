@@ -1,0 +1,9 @@
+.carousel-indicators [data-bs-target] {
+    background-color: grey;
+    opacity: 0.5;
+}
+
+.carousel-indicators .active {
+    background-color: grey;
+    opacity: 1;
+}
